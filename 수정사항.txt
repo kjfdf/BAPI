@@ -1,0 +1,46 @@
+There are 3 major concerns about this paper.
+1. The definition of ND observation period is obscure. Please clarify observation period i.e., during admission or for 7 days after admission which is more frequent time point after stroke onset.
+2. BA PI, independent variable in this study, should be obtained earlier than "within 7 days of admission". As early ND could be found within 7 days usually, BA PI should be checked earlier. When this met this hypothesis, BA PI could be considered as predictable variable in this study.
+3. Did you exclude BA stenosis when calculating BP PI. How about the effect of BA PI to the stroke subtype? Please clarify the effect of BA PI according to the stroke subtype such as SVO, LAA, and CE stroke.
+
+
+[Reviewer 2]
+
+The authors performed a study focusing on the effect of the increased pulsatile index in the posterior circulation associated with neurological
+deterioration. The study is well performed. I do have several concerns following
+
+#1 What is the clinical implication of this study? Do all stroke patients receive TCD to measure PI of BA to predict Neurological Deterioration?
+
+#2 Is there a cut-off value of PI for BA to predict neurological deterioration? The clinical implication is limited.
+
+#3 In the same vein, there only was a small difference 0.95 vs 1.02 in the pulsatile index between those with and without a neurological deterioration. Though statistically significant, still it may be hard to apply in clinical practice.
+
+#4 As shown by the authors, MCA PI and BA PI have a very high correlation.
+What is the advantage of measuring BA PI instead of MCA PI? BA may be freer from the poor temporal window problem, but still measuring BA flow is
+difficult for handling.
+
+#5 I would recommend the authors to further analyze their data; first, is PI of BA more appropriate for predicting neurological deterioration in the posterior circulation infarction?
+
+
+[Reviewer 3]
+
+The manuscript entitled “Association of increased pulsatility index of the Basilar artery with neurological deterioration after stroke” is interesting, but the manuscript contains some flaws. There are some comments to the authors.
+
+Major concern
+
+1. This study focuses on the local variable of ultrasonography, so it is a little out of line with the purpose of this clinical neurology journal, I would recommend another journal dealing with ultrasonography or cerebrovascular diseases.
+
+2. In the methods, you mentioned the NIHSS score was evaluated within 24 hours of hospitalization and when neurological symptoms worsened. The time window of ND after admission is needed for definite ND criteria.
+
+3. You may classify the subjects according to the TOAST classification, but there was no data about this analysis. PI is associated with cerebral small vessel disease, so the results will be different by stroke mechanism.
+
+4. There was no relationship between right MCA PI and ND in your study, so you should mention about it and the discrepancy of your results. In addition, why did you investigate the association of BA PI with right MCA PI only?
+
+5. You selected the variables with p value of ≤0.1 in univariable analysis for a multivariable model, but selected variables in multivariable analysis (table 3) are different with those with p value of ≤0.1 in univariable analysis (table 2). Hypertension and diabetes are included, but smoking and atrial fibrillation are not included.
+
+Minor concerns
+
+1. Ref.18 is not an article about the association of MCA PI and ND among lacunar stroke patients.
+
+2. In methods, you mentioned the patients were divided into four groups according to BA PI quartiles. However, there were a different numbers of
+patients between four groups (from 119-219).
